@@ -1,0 +1,1 @@
+A funcionalidade de produtos serve para indicar produtos de interesse ao usuario
